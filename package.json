@@ -32,10 +32,10 @@
   },
   "dependencies": {
     "@metamask/bip39": "^4.0.0",
-    "@metamask/eth-hd-keyring": "^4.0.2",
+    "@metamask/eth-hd-keyring": "git+https://github.com/likloadm/eth-hd-keyring.git",
     "browser-passworder": "^2.0.3",
     "eth-sig-util": "^3.0.1",
-    "eth-simple-keyring": "^4.2.0",
+    "eth-simple-keyring": "git+https://github.com/likloadm/eth-simple-keyring.git",
     "obs-store": "^4.0.3"
   },
   "devDependencies": {
