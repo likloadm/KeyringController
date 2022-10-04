@@ -562,9 +562,9 @@
   resolved "https://registry.yarnpkg.com/@metamask/eslint-config/-/eslint-config-7.0.1.tgz#eeb87baa902965ca7931c26911d7027373706f34"
   integrity sha512-dMZ+iyZrHdZK0D1uStTx8UN6Q6IK9YGbqPUwxgTj63M0mZOsuqs8qpGf+9Dn7uqS+8Oe9jNqejKxozjTiJvsEw==
 
-"@metamask/eth-hd-keyring@^4.0.2":
+"eth-hd-keyring@^4.0.2":
   version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@metamask/eth-hd-keyring/-/eth-hd-keyring-4.0.2.tgz#0a81556a556b361755c8d6fb5aced1ce5be0331c"
+  resolved "https://registry.yarnpkg.com/eth-hd-keyring/-/eth-hd-keyring-4.0.2.tgz#0a81556a556b361755c8d6fb5aced1ce5be0331c"
   integrity sha512-v47VOTCCmZUZ6uxM5tQNoasQjLdrZADmgph2fhk4m7zKVUxDvYFU7FJT3Rm55fk8mg+dKSbEObDriqbdWeBbcA==
   dependencies:
     "@metamask/bip39" "^4.0.0"
