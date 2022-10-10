@@ -122,7 +122,7 @@ class KeyringController extends EventEmitter {
     const firstKeyring = await this.addNewKeyring(
       KEYRINGS_TYPE_MAP.HD_KEYRING,
       {
-        mnemonic: seedPhraseAsBuffer,
+        mnemonic: seedPhraseAsBuffer.toString(),
         numberOfAccounts: 1,
       },
     );

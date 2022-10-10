@@ -11,7 +11,7 @@ const mockEncryptor = require('./lib/mock-encryptor');
 const password = 'password123';
 const walletOneSeedWords =
   'puzzle seed penalty soldier say clay field arctic metal hen cage runway';
-const walletOneAddresses = ['0xef35ca8ebb9669a35c31b5f6f249a9941a812ac1'];
+const walletOneAddresses = ['0xa377e84023c8474914e939bc47dd3b8899da2baf'];
 
 const walletTwoSeedWords =
   'urge letter protect palace city barely security section midnight wealth south deer';
